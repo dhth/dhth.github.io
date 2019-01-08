@@ -1,1 +1,1 @@
-## Dhruv Thakur's blog.
+# Check out my blog at [dhruvs.space](https://dhruvs.space).
